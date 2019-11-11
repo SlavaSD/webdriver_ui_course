@@ -7,12 +7,11 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-class ValidEmpSrch(unittest.TestCase):
+class ValidEmpSearch(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome(executable_path='/Users/admin/Desktop/HRM_Summer2019/browser_drivers/chromedriver')
         self.driver.get('http://hrm-online.portnov.com/')
-
 
     def tearDown(self):
         self.driver.quit()
