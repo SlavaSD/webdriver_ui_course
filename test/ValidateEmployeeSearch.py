@@ -32,7 +32,7 @@ class ValidEmpSrch(unittest.TestCase):
         driver.find_element_by_id('txtPassword').send_keys('password')
         driver.find_element_by_id('btnLogin').click()
         #driver.find_element_by_id('menu_pim_viewPimModule').click()
-        #sleep(0.5)
+        sleep(0.5)
         driver.find_element_by_id('empsearch_employee_name_empName').send_keys('Smith')
         #self.wait.until(expected_conditions.presence_of_element_located((By.ID, 'empsearch_employee_name_empName'))).send_keys('Smith')
         #self.wait.until(expected_conditions.presence_of_element_located((By.ID, 'searchBtn'))).click()
