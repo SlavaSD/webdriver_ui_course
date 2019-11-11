@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd0f04e3-908b-4479-b262-e3ec27306c86" name="Default Changelist" comment="" />
+    <list default="true" id="fd0f04e3-908b-4479-b262-e3ec27306c86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ValidateEmployeeSearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/ValidateEmployeeSearch.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for table_sort.TableSort.test_table_sort">
+  <component name="RunManager" selected="Python tests.Unittests for ValidateEmployeeSearch.ValidEmpSrch.test_something">
     <configuration name="math.com" type="PythonConfigurationType" factoryName="Python">
       <module name="HRM_Summer2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for add_employee.AddEmployee.test_something" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for ValidateEmployeeSearch.ValidEmpSrch" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="HRM_Summer2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +87,21 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;add_employee.AddEmployee.test_something&quot;" />
+      <option name="_new_target" value="&quot;ValidateEmployeeSearch.ValidEmpSrch&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for ValidateEmployeeSearch.ValidEmpSrch.test_something" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="HRM_Summer2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;ValidateEmployeeSearch.ValidEmpSrch.test_something&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -116,7 +133,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in add_employee.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in ValidateEmployeeSearch.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="HRM_Summer2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,31 +143,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/add_employee.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in menu_test.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="HRM_Summer2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/menu_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/ValidateEmployeeSearch.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for ValidateEmployeeSearch.ValidEmpSrch.test_something" />
+        <item itemvalue="Python tests.Unittests for ValidateEmployeeSearch.ValidEmpSrch" />
+        <item itemvalue="Python tests.Unittests in ValidateEmployeeSearch.py" />
         <item itemvalue="Python tests.Unittests for table_sort.TableSort.test_table_sort" />
         <item itemvalue="Python tests.Unittests for table_sort.TableSort" />
-        <item itemvalue="Python tests.Unittests in add_employee.py" />
-        <item itemvalue="Python tests.Unittests for add_employee.AddEmployee.test_something" />
-        <item itemvalue="Python tests.Unittests in menu_test.py" />
       </list>
     </recent_temporary>
   </component>
